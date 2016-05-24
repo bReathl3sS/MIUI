@@ -16,6 +16,7 @@
   <string name="alter_message_switch_mode">Modus wechseln?</string>
   <string name="alter_message_switch_mode_message">Beim Moduswechsel gehen die bisherigen Einstellungen für diese App verloren</string>
   <string name="app_frozen_app_list_summary">Hintergrundapps</string>
+  <string name="app_invisible_title">App verstecken</string>
   <string name="app_list_title">Apps auswählen</string>
   <string name="app_list_total">%d Apps</string>
   <string name="app_name">Energie sparen</string>
